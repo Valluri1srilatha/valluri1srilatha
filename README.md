@@ -1,9 +1,18 @@
-# Hi, I’m Valluri Srilatha 👋
+<h1 align="center">Valluri Srilatha 👋</h1>
 
-Entry-level Java full-stack developer with a strong interest in backend engineering and building reliable, maintainable software systems.
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Entry_Level_Developer-blue" />
+  <img src="https://img.shields.io/badge/Focus-Backend-green" />
+  <img src="https://img.shields.io/badge/Java-Full_Stack_Training-orange" />
+</p>
 
+<p align="center">
+Entry-level Java developer with full-stack training and a strong orientation toward backend engineering.
+</p>
 
-## About Me
+---
+
+## 👩‍💻 About Me
 
 - Recent MCA graduate in computer applications  
 - Full-stack trained, backend-oriented developer  
@@ -11,61 +20,60 @@ Entry-level Java full-stack developer with a strong interest in backend engineer
 - Follows clean code and standard architectures  
 - Preparing for an entry-level backend role  
 
+---
 
-## What I Work On
+## 🛠️ What I Work On
 
 - Java-based backend applications with RESTful APIs  
-- MVC-structured full-stack projects  
+- MVC-structured application development  
 - Database-driven systems with complete CRUD workflows  
-- Projects that demonstrate end-to-end request–response handling  
+- End-to-end request–response application flows  
 
+---
 
+## 📂 Featured Projects
 
-## Featured Projects
+### 🚚 CargoFlow  
+*Full-Stack Logistics Management System*
 
-### 🚚 CargoFlow
-A logistics management application designed to handle order creation, shipment tracking, and delivery workflows.
+- Designed RESTful APIs for orders, drivers, and shipment tracking  
+- Implemented CRUD operations with database integration  
+- Built UI for order placement and real-time tracking  
+- Integrated email notifications for order updates  
+- Followed MVC architecture and Git-based version control  
 
-**Highlights:**
-- Designed and developed RESTful APIs for orders, drivers, and shipment tracking  
-- Implemented full CRUD operations with database integration  
-- Built responsive UI for order placement and real-time tracking  
-- Integrated automated email notifications for order and shipment updates  
-- Followed MVC architecture and version-controlled the project using GitHub  
+---
 
+### 🚗 Car Rental Application  
+*Backend Application – JDBC*
 
+- Implemented backend logic for vehicle registration and booking  
+- Developed database operations using JDBC  
+- Designed CRUD workflows for rental entities  
+- Structured backend components with clear separation of concerns  
 
-### 🚗 Car Rental Application (Backend – JDBC)
+---
 
-A backend-focused Java application for managing vehicle rentals and booking workflows, implemented using JDBC for database interaction.
+### 🛒 E-Commerce Application  
+*Frontend Project*
 
-**Highlights:**
-- Implemented backend logic for vehicle registration, booking, and availability management  
-- Developed database operations using JDBC for persistent data storage  
-- Designed and executed CRUD operations for rental and booking entities  
-- Structured backend components to handle business logic and data access cleanly  
+- Built UI for product browsing, cart management, and order flow  
+- Developed admin views for product and inventory handling  
+- Focused on layout structure, navigation, and usability  
 
+---
 
+## 📊 GitHub Activity
 
-### 🛒 E-Commerce Application
-A full-stack application simulating an online shopping platform.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Valluri1srilatha&show_icons=true" />
+</p>
 
-**Highlights:**
-- Implemented product browsing, cart management, and order placement features  
-- Developed admin functionality for product and inventory management  
-- Built complete MVC flow connecting UI, service, and database layers  
-- Tested REST APIs using Postman to validate request and response handling  
+---
 
+## 📬 Contact
 
+- 📧 Email: **svalluri51@gmail.com**  
+- 💼 LinkedIn: [linkedin.com/in/srilatha-valluri-in](https://linkedin.com/in/srilatha-valluri-in)  
+- 🧑‍💻 GitHub: [github.com/Valluri1srilatha](https://github.com/Valluri1srilatha)
 
-## GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Valluri1srilatha&show_icons=true)
-
-
-
-## Contact
-
-- 📧 Email: svalluri51@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/srilatha-valluri-in  
-- 🧑‍💻 GitHub: https://github.com/Valluri1srilatha
