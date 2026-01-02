@@ -1,10 +1,6 @@
-<h1 align="center">Valluri Srilatha 👋</h1>
+<h1 align="center">Hi, I’m Valluri Srilatha 👋</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Role-Entry_Level_Developer-blue" />
-  <img src="https://img.shields.io/badge/Focus-Backend-green" />
-  <img src="https://img.shields.io/badge/Java-Full_Stack_Training-orange" />
-</p>
+
 
 <p align="center">
 Entry-level Java developer with full-stack training and a strong orientation toward backend engineering.
