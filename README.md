@@ -50,14 +50,7 @@ Entry-level Java developer with full-stack training and a strong orientation tow
 
 ---
 
-### 🛒 E-Commerce Application  
-*Frontend Project*
 
-- Built UI for product browsing, cart management, and order flow  
-- Developed admin views for product and inventory handling  
-- Focused on layout structure, navigation, and usability  
-
----
 
 ## 📊 GitHub Activity
 
