@@ -26,6 +26,27 @@ Entry-level Java developer with full-stack training and a strong orientation tow
 - End-to-end request–response application flows  
 
 ---
+## 🧩 Skills
+
+### 🧠 Backend & Programming
+- Java (Core & Advanced), JDBC, Spring Boot, Spring MVC, Hibernate, JPA
+
+### 🎨 Frontend
+- HTML, CSS, JavaScript
+
+### 🗄️ Database
+- SQL, MySQL, PostgreSQL
+
+### 🛠️ Tools & Platforms
+- Git, GitHub, Maven, Postman
+
+### 🏗️ Core Concepts
+- Object-Oriented Programming (OOP)  
+- Data Structures & Algorithms (DSA)  
+- MVC Architecture  
+- RESTful APIs  
+- CRUD Operations
+
 
 ## 📂 Featured Projects
 
