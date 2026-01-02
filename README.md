@@ -61,9 +61,7 @@ Entry-level Java developer with full-stack training and a strong orientation tow
 
 ## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Valluri1srilatha&show_icons=true" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lavanyavalluri&show_icons=true)
 
 ---
 
